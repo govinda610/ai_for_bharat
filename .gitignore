@@ -39,3 +39,6 @@ env/
 # Project specific
 output/
 *.pdf
+backup/
+slide_images/
+Idea Submission | AWS AI for Bharat Hackathon.pptx
